@@ -13,7 +13,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/gocql/gocql"
+	"github.com/croatiangrn/gocql"
 	"github.com/scylladb/gocqlx/v2"
 	_ "github.com/scylladb/gocqlx/v2/table"
 )

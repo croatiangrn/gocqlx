@@ -7,7 +7,7 @@ package gocqlx
 import (
 	"context"
 
-	"github.com/gocql/gocql"
+	"github.com/croatiangrn/gocql"
 	"github.com/scylladb/go-reflectx"
 )
 
