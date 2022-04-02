@@ -7,8 +7,8 @@ import (
 	"os"
 	"testing"
 
+	"github.com/croatiangrn/gocqlx/v2/gocqlxtest"
 	"github.com/google/go-cmp/cmp"
-	"github.com/scylladb/gocqlx/v2/gocqlxtest"
 )
 
 var flagUpdate = flag.Bool("update", false, "update golden file")

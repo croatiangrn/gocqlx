@@ -11,10 +11,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/scylladb/gocqlx/v2/dbutil"
-	. "github.com/scylladb/gocqlx/v2/gocqlxtest"
-	"github.com/scylladb/gocqlx/v2/qb"
-	"github.com/scylladb/gocqlx/v2/table"
+	"github.com/croatiangrn/gocqlx/v2/dbutil"
+	. "github.com/croatiangrn/gocqlx/v2/gocqlxtest"
+	"github.com/croatiangrn/gocqlx/v2/qb"
+	"github.com/croatiangrn/gocqlx/v2/table"
 )
 
 func TestRewriteTableTTL(t *testing.T) {

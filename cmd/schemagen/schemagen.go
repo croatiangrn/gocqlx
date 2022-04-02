@@ -14,8 +14,8 @@ import (
 	"strings"
 
 	"github.com/croatiangrn/gocql"
-	"github.com/scylladb/gocqlx/v2"
-	_ "github.com/scylladb/gocqlx/v2/table"
+	"github.com/croatiangrn/gocqlx/v2"
+	_ "github.com/croatiangrn/gocqlx/v2/table"
 )
 
 var (

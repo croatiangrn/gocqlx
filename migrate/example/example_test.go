@@ -10,10 +10,10 @@ import (
 	"context"
 	"testing"
 
-	"github.com/scylladb/gocqlx/v2"
-	"github.com/scylladb/gocqlx/v2/gocqlxtest"
-	"github.com/scylladb/gocqlx/v2/migrate"
-	"github.com/scylladb/gocqlx/v2/migrate/example/cql"
+	"github.com/croatiangrn/gocqlx/v2"
+	"github.com/croatiangrn/gocqlx/v2/gocqlxtest"
+	"github.com/croatiangrn/gocqlx/v2/migrate"
+	"github.com/croatiangrn/gocqlx/v2/migrate/example/cql"
 )
 
 // Running examples locally:

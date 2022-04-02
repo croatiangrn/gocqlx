@@ -16,9 +16,9 @@ import (
 	"github.com/croatiangrn/gocql"
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
-	"github.com/scylladb/gocqlx/v2"
-	. "github.com/scylladb/gocqlx/v2/gocqlxtest"
-	"github.com/scylladb/gocqlx/v2/qb"
+	"github.com/croatiangrn/gocqlx/v2"
+	. "github.com/croatiangrn/gocqlx/v2/gocqlxtest"
+	"github.com/croatiangrn/gocqlx/v2/qb"
 	"gopkg.in/inf.v0"
 )
 

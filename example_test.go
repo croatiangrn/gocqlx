@@ -14,10 +14,10 @@ import (
 	"time"
 
 	"github.com/croatiangrn/gocql"
-	"github.com/scylladb/gocqlx/v2"
-	"github.com/scylladb/gocqlx/v2/gocqlxtest"
-	"github.com/scylladb/gocqlx/v2/qb"
-	"github.com/scylladb/gocqlx/v2/table"
+	"github.com/croatiangrn/gocqlx/v2"
+	"github.com/croatiangrn/gocqlx/v2/gocqlxtest"
+	"github.com/croatiangrn/gocqlx/v2/qb"
+	"github.com/croatiangrn/gocqlx/v2/table"
 	"golang.org/x/sync/errgroup"
 	"gopkg.in/inf.v0"
 )

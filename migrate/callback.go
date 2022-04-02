@@ -8,7 +8,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/scylladb/gocqlx/v2"
+	"github.com/croatiangrn/gocqlx/v2"
 )
 
 // CallbackEvent specifies type of the event when calling CallbackFunc.

@@ -20,8 +20,8 @@ import (
 	"time"
 
 	"github.com/croatiangrn/gocql"
-	"github.com/scylladb/gocqlx/v2"
-	"github.com/scylladb/gocqlx/v2/qb"
+	"github.com/croatiangrn/gocqlx/v2"
+	"github.com/croatiangrn/gocqlx/v2/qb"
 )
 
 // DefaultAwaitSchemaAgreement controls whether checking for cluster schema agreement

@@ -12,9 +12,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/scylladb/gocqlx/v2"
-	. "github.com/scylladb/gocqlx/v2/gocqlxtest"
-	"github.com/scylladb/gocqlx/v2/qb"
+	"github.com/croatiangrn/gocqlx/v2"
+	. "github.com/croatiangrn/gocqlx/v2/gocqlxtest"
+	"github.com/croatiangrn/gocqlx/v2/qb"
 )
 
 type benchPerson struct {
