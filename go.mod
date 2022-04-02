@@ -17,4 +17,4 @@ require (
 	golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543 // indirect
 )
 
-replace github.com/gocql/gocql => github.com/croatiangrn/gocql v1.0.1
+replace github.com/gocql/gocql => github.com/croatiangrn/gocql v1.0.2
